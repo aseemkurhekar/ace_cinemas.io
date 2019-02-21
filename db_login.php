@@ -21,7 +21,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
 <?php
-	$db_host='localhost';
-	$db_username='root';
-	$db_password='password';
+	$db_host='db4free.net';
+	$db_username='aseem_kurhekar';
+	$db_password='tudomeda';
 ?>
